@@ -1,0 +1,7 @@
+processed_images
+results
+main.build
+main.dist
+main.exe
+setup.py
+assets/user_list.json
